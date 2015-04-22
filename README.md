@@ -1,4 +1,4 @@
-# [A Sense of (US): The Household Fold](williamchiu.github.io/a-sense-of-us)
+# [A Sense of (US): The Household Fold](http://williamchiu.github.io/a-sense-of-us/)
 A data analysis project dividing the population by living arrangement: family household, nonfamily household, and nonhousehold.
 
 ##Sounds cool. What do we have right now?
